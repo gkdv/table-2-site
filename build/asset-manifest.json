@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/table-2-site/static/js/main.d59fac25.chunk.js",
-    "main.js.map": "/table-2-site/static/js/main.d59fac25.chunk.js.map",
-    "runtime-main.js": "/table-2-site/static/js/runtime-main.be17ffa9.js",
-    "runtime-main.js.map": "/table-2-site/static/js/runtime-main.be17ffa9.js.map",
-    "static/css/2.bcfe96a7.chunk.css": "/table-2-site/static/css/2.bcfe96a7.chunk.css",
-    "static/js/2.9cb63cab.chunk.js": "/table-2-site/static/js/2.9cb63cab.chunk.js",
-    "static/js/2.9cb63cab.chunk.js.map": "/table-2-site/static/js/2.9cb63cab.chunk.js.map",
-    "index.html": "/table-2-site/index.html",
-    "precache-manifest.e77f6ed8956c8265883a13c61d6d1a84.js": "/table-2-site/precache-manifest.e77f6ed8956c8265883a13c61d6d1a84.js",
-    "service-worker.js": "/table-2-site/service-worker.js",
-    "static/css/2.bcfe96a7.chunk.css.map": "/table-2-site/static/css/2.bcfe96a7.chunk.css.map",
-    "static/js/2.9cb63cab.chunk.js.LICENSE.txt": "/table-2-site/static/js/2.9cb63cab.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/table-2-site/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/table-2-site/static/media/fa-solid-900.ec763292.svg"
+    "main.js": "/static/js/main.d305b69b.chunk.js",
+    "main.js.map": "/static/js/main.d305b69b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.61274d19.js",
+    "runtime-main.js.map": "/static/js/runtime-main.61274d19.js.map",
+    "static/css/2.5fb9b7ca.chunk.css": "/static/css/2.5fb9b7ca.chunk.css",
+    "static/js/2.2303249e.chunk.js": "/static/js/2.2303249e.chunk.js",
+    "static/js/2.2303249e.chunk.js.map": "/static/js/2.2303249e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.198d0606c06e473bef118381f09965e9.js": "/precache-manifest.198d0606c06e473bef118381f09965e9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5fb9b7ca.chunk.css.map": "/static/css/2.5fb9b7ca.chunk.css.map",
+    "static/js/2.2303249e.chunk.js.LICENSE.txt": "/static/js/2.2303249e.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be17ffa9.js",
-    "static/css/2.bcfe96a7.chunk.css",
-    "static/js/2.9cb63cab.chunk.js",
-    "static/js/main.d59fac25.chunk.js"
+    "static/js/runtime-main.61274d19.js",
+    "static/css/2.5fb9b7ca.chunk.css",
+    "static/js/2.2303249e.chunk.js",
+    "static/js/main.d305b69b.chunk.js"
   ]
 }

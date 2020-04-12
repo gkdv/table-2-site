@@ -9,9 +9,9 @@ export class Header extends Component {
             <div className="banner-inner" style={bannerInner}>
               <div className="row" style={styleRow}>
                 <div className="column banner-content" style={styleBanner}>
-                  <h1 style={h1}>Digital Nomad Cities</h1>
+                  <h1 style={h1}>COVID19</h1>
                   <p></p>
-                  <p>The best cities for digital nomads in one handy list.</p>
+                  <p>Find out more information on COVID19</p>
                   <div className="banner__cta" style={styleCTA}>
                     <a className="button" target="_self" href="#list" style={styleButton}>
                       View the list
