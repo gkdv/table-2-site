@@ -1,5 +1,4 @@
 import React from 'react';
-import Example from './Components/example';
 import DataSection from './Components/DataSection';
 import Header from './Components/Header'
 
