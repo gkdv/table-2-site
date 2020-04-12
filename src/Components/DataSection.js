@@ -21,15 +21,15 @@ export class DataSection extends Component {
       buttonNewNames: []
     };
   }
-  updateSearch(event) {
-      const buttonNewNames = this.state.buttonName.filter(button => {
-          return button === event.target.dataTag
-      })
-      this.setState({
-          buttonName: [...buttonNewNames]
-        })
-      this.props.onChange(event.target.dataTag)
-  }
+  // updateSearch(event) {
+  //     const buttonNewNames = this.state.buttonName.filter(button => {
+  //         return button === event.target.dataTag
+  //     })
+  //     this.setState({
+  //         buttonName: [...buttonNewNames]
+  //       })
+  //     this.props.onChange(event.target.dataTag)
+  // }
   createLiItem = () => {
     let UL = [];
 
@@ -40,7 +40,7 @@ export class DataSection extends Component {
           style={styleLi}
           key={this.state.buttonName[i]}
           dataTag={this.state.buttonName[i]}
-          onCLick={this.updateSearch(this.dataTag)}
+          // onCLick={this.updateSearch(this.dataTag)}
         >
           {this.state.buttonName[i]}
         </li>
